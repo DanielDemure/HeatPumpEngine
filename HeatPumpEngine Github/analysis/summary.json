@@ -1,0 +1,8 @@
+{
+  "N_samples": 40000,
+  "fraction_positive": 0.0,
+  "median_net_kW_per_kWth": -0.12056993909503792,
+  "mean_net_kW_per_kWth": -0.1291787065043866,
+  "90th_percentile_net": -0.07989122873627716,
+  "fraction_COP_ge_break_even": 0.0
+}

@@ -1,0 +1,29 @@
+{
+  "summary_statistics": {
+    "total_cases": 96,
+    "viable_cases": 92,
+    "percentage_viable": 95.83333333333334,
+    "average_net_energy_viable": 37.571219541328226,
+    "max_net_energy": 90.0,
+    "min_mass_flow": 1.1111111111111112,
+    "average_mass_flow": 5.959405371127503
+  },
+  "best_net_energy_case": {
+    "pressure_bar": 120,
+    "cop": 10.0,
+    "gross_kJ_per_kg": 138.46153846153845,
+    "electrical_kJ_per_kg": 103.84615384615384,
+    "w_pump_kJ_per_kg": 13.846153846153845,
+    "net_kJ_per_kg": 90.0,
+    "mass_flow_kg_per_s": 1.1111111111111112
+  },
+  "lowest_mass_flow_case": {
+    "pressure_bar": 120,
+    "cop": 10.0,
+    "gross_kJ_per_kg": 138.46153846153845,
+    "electrical_kJ_per_kg": 103.84615384615384,
+    "w_pump_kJ_per_kg": 13.846153846153845,
+    "net_kJ_per_kg": 90.0,
+    "mass_flow_kg_per_s": 1.1111111111111112
+  }
+}
