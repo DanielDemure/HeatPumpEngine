@@ -1,31 +1,30 @@
-# Hexure — Heat Pump Engine (HPE)
-
+Hexure — Heat Pump Engine (HPE)
 WARNING: High pressures (70–120 bar) and volatile solvents involved — do NOT attempt construction without certified pressure‑system engineers. See SAFETY.md.
 
-Kort (TL;DR)
-HPE is een open‑source onderzoeksproject dat een nieuwe manier onderzoekt om lage‑temperatuur warmte (bv. zonnewarmte of restwarmte) om te zetten in elektriciteit met een CO2/acetone mengsel dat sterk expandeert bij verhoogde druk. Deze repository bevat analyses, experimentprotocollen, ontwerp‑bestanden en veiligheidsrichtlijnen voor reproduceerbaar onderzoek.
+TL;DR
+HPE is an open-source research project exploring a method to convert low‑grade heat (e.g., solar thermal or industrial waste heat) into electricity using a CO2/acetone mixture that exhibits large volumetric expansion under pressure. This repository contains analysis, experimental protocols, design files, datasets, and safety guidance for reproducible research.
 
-Waarom open source?
-Ik deel dit project open omdat ik geloof dat transparantie de snelste en veiligste weg is naar technische validatie en betrouwbare opschaling: onderzoekers en ingenieurs kunnen meelezen, repliceren en verbeteren.
+Why open source?
+I am releasing this project openly because transparency accelerates technical validation, improves safety through community review, and enables collaborative development of robust, practical solutions.
 
-Wat je hier vindt
-- docs/: samenvatting, technische whitepaper en projectplan  
-- analysis/: datasets, grafieken en het analyse‑rapport (PDF)  
-- designs/: schetsen en CAD‑placeholders  
-- prototypes/: prototype‑documentatie en testdata  
-- SAFETY.md: lees dit als eerste — experimenteer nooit zonder gecertificeerde faciliteiten  
-- CONTRIBUTING.md / CODE_OF_CONDUCT.md: richtlijnen voor bijdragen
+What you’ll find here
 
+docs/: executive summary, technical whitepaper, project plan, experimental protocol
+analysis/: datasets, plots, and the analysis report (PDF)
+designs/: sketches and CAD placeholders
+prototypes/: prototype documents and test data
+SAFETY.md: read this first — do not attempt experiments without certified facilities
+CONTRIBUTING.md / CODE_OF_CONDUCT.md: guidelines for contributions
 Status
-Analyse en modelling zijn afgerond; experimentele validatie en prototype‑testen gepland. Zie RELEASE_NOTES.md voor details.
+Modeling and analysis are complete. Experimental validation and prototype testing are planned. See RELEASE_NOTES.md for details.
 
-Wil je helpen?
-- Lees eerst SAFETY.md.  
-- Voor data/experimenten: open een issue met de tag `experimental-result`.  
-- Voor PRs: maak een fork, werk in een feature branch en stuur een PR met reproduceerbare data.
+Want to help?
 
-Licentie
-Apache‑2.0 (zie LICENSE)
+Read SAFETY.md first.
+For data/experimental results: open an issue and tag it experimental-result.
+For code or doc contributions: fork, create a feature branch, and submit a PR with reproducible data and test details.
+License
+Apache‑2.0 (see LICENSE)
 
-Contact / meer info
-Open een issue of stuur een korte e‑mail (of laat een bericht achter in de issues). Dank voor je interesse!
+Contact
+Open an issue or post questions in the repository issues.
